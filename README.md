@@ -41,7 +41,7 @@ I’m Shahriar Rumel, a full-stack engineer, creative coder and self-proclaimed 
 <br>
 
 <a href="https://github.com/shahriar-rumel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-rumel&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=172643" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-rumel&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=172643" />
 </a>
 
 <a href="https://github.com/shahriar-rumel">
