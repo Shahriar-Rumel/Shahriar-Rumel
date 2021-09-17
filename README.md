@@ -1,4 +1,4 @@
-[![Shahriar's GitHub Banner](./GitHubProfileCover.png)](./GitHubProfileCover.png)
+[![Shahriar's GitHub Banner](https://github.com/Shahriar-Rumel/Shahriar-Rumel/blob/main/GitHubProfileCover.png)](./GitHubProfileCover.png)
 
 [![Visits Badge](https://badges.pufler.dev/visits/shahriar-rumel/shahriar-rumel)](https:github.com/shahriar-rumel)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-rumel-74ba04210)
