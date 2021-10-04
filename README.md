@@ -21,8 +21,8 @@ I’m Shahriar Rumel, a full stack developer with an eccentric ability to design
 
 <br>
 
-<a href="https://github.com/shahriar-rumel/PitteraPatter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=PitteraPatter&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
+<a href="https://github.com/shahriar-rumel/PitterPatter">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=PitterPatter&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
 </a>
 
 <br>
