@@ -14,31 +14,31 @@ I'm a creative designer and programmer who loves solving complex and critical re
 
 <br>
 
-<a href="https://github.com/shahriar-rumel/GithubProfileFinder">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=GithubProfileFinder&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
+<a href="https://github.com/shahriar-rumel/adoptapaw-therap">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=adoptapaw-therap&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
 </a>
 
 
 <br>
+
+<a href="https://github.com/shahriar-rumel/locatory">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=locatory&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
+</a>
+
+<br>
+
+<a href="https://github.com/shahriar-rumel/CSEDU-PORTAL-CSE2112">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=CSEDU-PORTAL-CSE2112&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
+</a>
+
+<br>
+
+<a href="https://github.com/Shahriar-rumel/CSEProject-1201">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=CSEProject-1201&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
+</a>
 
 <a href="https://github.com/shahriar-rumel/PitterPatter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=PitterPatter&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
-</a>
-
-<br>
-
-<a href="https://github.com/shahriar-rumel/CoronaVirusStatsGenerator">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=CoronaVirusStatsGenerator&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
-</a>
-
-<br>
-
-<a href="https://github.com/Shahriar-rumel/NetflixTrendingMovieGenerator">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=NetflixTrendingMovieGenerator&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
-</a>
-
-<a href="https://github.com/shahriar-rumel/ExpenseTracker">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=ExpenseTracker&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=172643" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=PitterPatter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=172643" />
 </a>
 
 <br>
