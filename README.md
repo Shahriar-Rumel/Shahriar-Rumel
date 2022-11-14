@@ -6,7 +6,7 @@
 
 Hey there 👋
 
-I’m Shahriar Rumel, a full stack developer with an eccentric ability to design fascinating user interfaces. I aim to equally utilise my skills as a front and back end developer to create websites or applications that are visually engaging,fast and secure.
+I'm a creative designer and programmer who loves solving complex and critical real-life problems with clean design and efficient, logical reasoning. I'm always eager to take on new challenges, learn new technologies, and build meaningful products to contribute to society and improve the lives around me.
 <br>
 
 ## 📌 Pinned Repositories
