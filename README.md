@@ -1,5 +1,4 @@
 <img src="./BWDP.png" width="100" alt="Description of image">
-<br>
 
 ---
 
