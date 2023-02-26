@@ -1,99 +1,60 @@
-[![Shahriar's GitHub Banner](GithubProfileCover.png)](github.com/shahriar-rumel)
-
-[![Visits Badge](https://badges.pufler.dev/visits/shahriar-rumel/shahriar-rumel)](https:github.com/shahriar-rumel)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahriar-rumel-74ba04210)
-[![CodePen Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=red)](https://instagram.com/shahriar_rumel_)
-
-Hey there 👋
-
-I'm a creative designer and programmer who loves solving complex and critical real-life problems with clean design and efficient, logical reasoning. I'm always eager to take on new challenges, learn new technologies, and build meaningful products to contribute to society and improve the lives around me.
+<img src="./BWDP.png" width="100" alt="Description of image">
 <br>
 
-## 📌 Pinned Repositories
+---
 
-
+Hi, I'm Shahriar Rumel 👋
 <br>
+I craft purposeful solutions by deciphering intricate problems with a strategic approach and innovative design.
 
-<a href="https://github.com/shahriar-rumel/adoptapaw-therap">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=adoptapaw-therap&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
-</a>
+---
 
+### Replicants
 
-<br>
+[![](https://custom-icon-badges.demolab.com/badge/rumelshahriar-blue.svg?logo=websr&color=000000&logoColor=ffffff)](https://rumelshahriar.com)
+[![JavaScript](https://img.shields.io/badge/-Linekdin-000?&logo=linkedin)](https://www.linkedin.com/in/rumelshahriar/)
+[![TypeScript](https://img.shields.io/badge/-Instagram-000?&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shahriar_rumel_/)
 
-<a href="https://github.com/shahriar-rumel/locatory">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=locatory&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
-</a>
+### Languages
 
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![](https://custom-icon-badges.demolab.com/badge/Java-blue.svg?logo=javasr&color=000000)
+![](https://custom-icon-badges.demolab.com/badge/C-blue.svg?logo=csr&color=000000)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-<a href="https://github.com/shahriar-rumel/CSEDU-PORTAL-CSE2112">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=CSEDU-PORTAL-CSE2112&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
-</a>
+### Technologies
 
-<br>
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Redux](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/-React%20Query-000?&logo=react-query)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GC](https://img.shields.io/badge/-Google%20Cloud-000?&logo=googlecloud&logoColor=4285F4)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Redis](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![Redis](https://img.shields.io/badge/-Maven-000?&logo=apachemaven&logoColor=C71A36)
 
-<a href="https://github.com/Shahriar-rumel/CSEProject-1201">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=CSEProject-1201&title_color=ffffff&text_color=c9cacc&icon_color=05ac72&bg_color=172643" />
-</a>
+### Full Stack Projects
 
-<a href="https://github.com/shahriar-rumel/PitterPatter">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shahriar-rumel&repo=PitterPatter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=172643" />
-</a>
+[![](https://custom-icon-badges.demolab.com/badge/Tripify-blue.svg?logo=tripify&color=000000)](https://github.com/Shahriar-Rumel/tripifymicroservices)
+[![](https://custom-icon-badges.demolab.com/badge/Adoptapaw-blue.svg?logo=adoptapaw&color=000000)](https://github.com/shahriar-rumel/adoptapaw-therap)
+[![](https://custom-icon-badges.demolab.com/badge/Locatory-blue.svg?logo=locatory&color=000000)](https://github.com/Shahriar-Rumel/locatory)
 
-<br>
-<br>
+### Hackathons
 
-## &#x1f4c8; GitHub Stats
+[![](https://custom-icon-badges.demolab.com/badge/Code%20Samurai%20BD-blue.svg?logo=codesamurai&color=000000)](https://www.linkedin.com/posts/rumelshahriar_ux-ui-hackathon-activity-7012021703786598400-7ImZ?utm_source=share&utm_medium=member_desktop)
+[![](https://custom-icon-badges.demolab.com/badge/Therap%20Java%20Fest-blue.svg?logo=therapsr&color=000000&logoColor=FBAB18)](https://www.linkedin.com/posts/rumelshahriar_therap-java-fest-activity-6973622356820852736-M__i?utm_source=share&utm_medium=member_desktop)
 
-<br>
+---
 
-<a href="https://github.com/shahriar-rumel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar-rumel&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=172643" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=shahriar-rumel&theme=juicyfresh&no-frame=true&margin-w=10&column=7" />
 
-<a href="https://github.com/shahriar-rumel">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shahriar-rumel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f4b73e&bg_color=172643" alt="Shahriar's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-## 💼 Skills
-
-<br>
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=blue&color=05ac72)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=774bbb&color=05ac72)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=f4dd19&color=05ac72)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=70ba51&color=05ac72)
-![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=Express&logoColor=yellow&color=05ac72)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=CPlusPlus&logoColor=blue&color=05ac72)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=red&color=05ac72)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=#787cb5&color=05ac72)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=green&color=05ac72)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=05ac72)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=yellow&color=05ac72)
-
-<summary>More Skills</summary>
-
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=264de3&color=05ac72)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=cc669a&color=05ac72)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=3aadbb&color=05ac72)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=blue&color=05ac72)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=05ac72)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=fb6c36&color=05ac72)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=001e36&color=05ac72)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=330000&color=05ac72)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=470137&color=05ac72)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=05ac72)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=46089c&color=05ac72)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=fc7263&color=05ac72)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=05ac72)
-
-<br>
+<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-rumel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&icon_color=fff&bg_color=000000&theme=graywhite" /></a>
