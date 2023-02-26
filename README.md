@@ -11,7 +11,7 @@ I craft purposeful solutions by deciphering intricate problems with a strategic 
 ### Replicants
 
 [![](https://custom-icon-badges.demolab.com/badge/rumelshahriar-blue.svg?logo=websr&color=000000&logoColor=ffffff)](https://rumelshahriar.com)
-[![JavaScript](https://img.shields.io/badge/-Linekdin-000?&logo=linkedin)](https://www.linkedin.com/in/rumelshahriar/)
+[![JavaScript](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin)](https://www.linkedin.com/in/rumelshahriar/)
 [![TypeScript](https://img.shields.io/badge/-Instagram-000?&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shahriar_rumel_/)
 
 ### Languages
@@ -54,6 +54,6 @@ I craft purposeful solutions by deciphering intricate problems with a strategic 
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahriar-rumel&theme=juicyfresh&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=shahriar-rumel&theme=juicyfresh&no-frame=true&margin-w=10&column=5" />
 
-<img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-rumel&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=ffffff&icon_color=fff&bg_color=000000&theme=graywhite" /></a>
+<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-rumel&hide_border=true&layout=compact&langs_count=10&text_color=ffffff&icon_color=ffffff&bg_color=000000&theme=graywhite&title_color=ffff" /></a>
