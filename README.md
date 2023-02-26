@@ -2,19 +2,19 @@
 
 ---
 
-Hi, I'm Shahriar Rumel 👋
+Hey, I'm Rumel 👋
 <br>
 I craft purposeful solutions by deciphering intricate problems with a strategic approach and innovative design.
 
 ---
 
-### Replicants
+### 🤖 Replicants
 
 [![](https://custom-icon-badges.demolab.com/badge/rumelshahriar-blue.svg?logo=websr&color=000000&logoColor=ffffff)](https://rumelshahriar.com)
 [![JavaScript](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin)](https://www.linkedin.com/in/rumelshahriar/)
 [![TypeScript](https://img.shields.io/badge/-Instagram-000?&logo=instagram&logoColor=ffffff)](https://www.instagram.com/shahriar_rumel_/)
 
-### Languages
+### 🗡️ Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -24,33 +24,50 @@ I craft purposeful solutions by deciphering intricate problems with a strategic 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
-### Technologies
+### 💡 Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-React%20Native-000?&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Redux](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/-React%20Query-000?&logo=react-query)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss)
+![React Query](https://img.shields.io/badge/-React%20Query-000?&logo=react-query)
+![Chakra](https://img.shields.io/badge/-Chakra-000?&logo=chakraui&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GC](https://img.shields.io/badge/-Google%20Cloud-000?&logo=googlecloud&logoColor=4285F4)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Redis](https://img.shields.io/badge/-NPM-000?&logo=npm)
-![Redis](https://img.shields.io/badge/-Maven-000?&logo=apachemaven&logoColor=C71A36)
+![Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka&logoColor=ffffff)
+![Npm](https://img.shields.io/badge/-NPM-000?&logo=npm)
+![Maven](https://img.shields.io/badge/-Maven-000?&logo=apachemaven&logoColor=C71A36)
+![Gradle](https://img.shields.io/badge/-Gradle-000?&logo=gradle&logoColor=ffffff)
+![Heroku](https://img.shields.io/badge/-Heroku-000?&logo=heroku&logoColor=430098)
+![Netlify](https://img.shields.io/badge/-Netlify-000?&logo=netlify&logoColor=00C7B7)
+![Mongodb](https://img.shields.io/badge/-Mongodb-000?&logo=mongodb&logoColor=47A248)
+![Expo](https://img.shields.io/badge/-Expo-000?&logo=expo&logoColor=ffffff)
 
-### Full Stack Projects
+### 🛠️ Tools
 
-[![](https://custom-icon-badges.demolab.com/badge/Tripify-blue.svg?logo=tripify&color=000000)](https://github.com/Shahriar-Rumel/tripifymicroservices)
-[![](https://custom-icon-badges.demolab.com/badge/Adoptapaw-blue.svg?logo=adoptapaw&color=000000)](https://github.com/shahriar-rumel/adoptapaw-therap)
-[![](https://custom-icon-badges.demolab.com/badge/Locatory-blue.svg?logo=locatory&color=000000)](https://github.com/Shahriar-Rumel/locatory)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma&logoColor=F24E1E)
+![Adobe](https://img.shields.io/badge/-Adobe-000?&logo=adobecreativecloud&logoColor=DA1F26)
+![Adobe](https://img.shields.io/badge/-Illustrator-000?&logo=adobeillustrator&logoColor=FF9A00)
+![Adobe](https://img.shields.io/badge/-Photoshop-000?&logo=adobephotoshop&logoColor=31A8FF)
+![Adobe](https://img.shields.io/badge/-Xd-000?&logo=adobexd&logoColor=FF61F6)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Postman](https://img.shields.io/badge/-Git-000?&logo=git)
 
-### Hackathons
+### 🧬 Full Stack Projects
 
-[![](https://custom-icon-badges.demolab.com/badge/Code%20Samurai%20BD-blue.svg?logo=codesamurai&color=000000)](https://www.linkedin.com/posts/rumelshahriar_ux-ui-hackathon-activity-7012021703786598400-7ImZ?utm_source=share&utm_medium=member_desktop)
-[![](https://custom-icon-badges.demolab.com/badge/Therap%20Java%20Fest-blue.svg?logo=therapsr&color=000000&logoColor=FBAB18)](https://www.linkedin.com/posts/rumelshahriar_therap-java-fest-activity-6973622356820852736-M__i?utm_source=share&utm_medium=member_desktop)
+[![Tripify](https://custom-icon-badges.demolab.com/badge/Tripify-blue.svg?logo=tripify&color=000000)](https://github.com/Shahriar-Rumel/tripifymicroservices)
+[![Adoptapaw](https://custom-icon-badges.demolab.com/badge/Adoptapaw-blue.svg?logo=adoptapaw&color=000000)](https://github.com/shahriar-rumel/adoptapaw-therap)
+[![Locatory](https://custom-icon-badges.demolab.com/badge/Locatory-blue.svg?logo=locatory&color=000000)](https://github.com/Shahriar-Rumel/locatory)
+
+### 🏆 Hackathons
+
+[![Code Samurai](https://custom-icon-badges.demolab.com/badge/Code%20Samurai%20BD-blue.svg?logo=codesamurai&color=000000)](https://www.linkedin.com/posts/rumelshahriar_ux-ui-hackathon-activity-7012021703786598400-7ImZ?utm_source=share&utm_medium=member_desktop)
+[![Therap Java Fest](https://custom-icon-badges.demolab.com/badge/Therap%20Java%20Fest-blue.svg?logo=therapsr&color=000000&logoColor=FBAB18)](https://www.linkedin.com/posts/rumelshahriar_therap-java-fest-activity-6973622356820852736-M__i?utm_source=share&utm_medium=member_desktop)
 
 ---
 
