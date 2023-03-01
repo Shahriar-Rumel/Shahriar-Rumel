@@ -74,17 +74,11 @@ I craft purposeful solutions by deciphering intricate problems with a strategic 
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=shahriar-rumel&title=Stars,Followers,Commits,Issues,Repositories,PullRequest&theme=juicyfresh&no-frame=true&column=6&margin-w=3&margin-h=3&no-bg=false" style="float: left;">
-  
-</div>
+<div style="width:100%;display: flex; justify-content: space-between;">
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; align-items:center ;margin-top:10px">
- 
-  <div style="flex: 1;">
-    <a href="https://streak-stats.demolab.com/?user=shahriar-rumel&background=black&ring=BBDC41&fire=BBDC41&currStreakLabel=BBDC41&currStreakNum=white&dates=white&sideLabels=white&sideNums=BBDC41&hide_border=true" style="width: 100%;">
-      <img src="https://streak-stats.demolab.com/?user=shahriar-rumel&background=black&ring=BBDC41&fire=BBDC41&currStreakLabel=BBDC41&currStreakNum=white&dates=white&sideLabels=white&sideNums=BBDC41&hide_border=true" style="width: 100%;">
-    </a>
-  </div>
-   
+<a href="https://streak-stats.demolab.com/?user=shahriar-rumel&background=black&ring=BBDC41&fire=BBDC41&currStreakLabel=BBDC41&currStreakNum=white&dates=white&sideLabels=white&sideNums=BBDC41&hide_border=true" style="width:49%;" >
+<img src="https://streak-stats.demolab.com/?user=shahriar-rumel&background=black&ring=BBDC41&fire=BBDC41&currStreakLabel=BBDC41&currStreakNum=white&dates=white&sideLabels=white&sideNums=BBDC41&hide_border=true" >
+</a>
+
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=shahriar-rumel&title=Stars,Followers,Commits,Issues,Repositories,PullRequest&theme=juicyfresh&no-frame=true&column=4&margin-w=3&margin-h=3&no-bg=false">
 </div>
