@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="./BWDP.png" width="100" alt="Description of image" style="float: left;">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shahriar-rumel.Shahriar-rumel&right_color=green&left_color=black" style="align-self: flex-end; height: 20px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shahriar-rumel.Shahriar-rumel&right_color=green&left_color=black" style="align-self: flex-end; margin-left:20%;height: 20px;">
 </div>
 
 ---
