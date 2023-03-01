@@ -72,5 +72,6 @@ I craft purposeful solutions by deciphering intricate problems with a strategic 
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=shahriar-rumel&theme=juicyfresh&no-frame=true&margin-w=10&column=5" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-rumel&hide_border=true&layout=compact&langs_count=10&text_color=ffffff&icon_color=ffffff&bg_color=000000&theme=graywhite&title_color=ffff" />
 
-<img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-rumel&hide_border=true&layout=compact&langs_count=10&text_color=ffffff&icon_color=ffffff&bg_color=000000&theme=graywhite&title_color=ffff" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shahriar-rumel&background=black&ring=BBDC41&fire=BBDC41&currStreakLabel=BBDC41&currStreakNum=white&dates=white&sideLabels=white&sideNums=BBDC41&hide_border=true)](https://git.io/streak-stats)
