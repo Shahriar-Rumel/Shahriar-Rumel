@@ -1,8 +1,3 @@
-<div style="display: flex; justify-content: space-between;">
-  <img src="./BWDP.png" width="100" alt="Description of image" >
-</div>
-
----
 
 Hey, I'm Rumel 👋
 <br>
